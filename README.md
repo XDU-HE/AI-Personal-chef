@@ -59,3 +59,7 @@ Vite 会把 `/api` 请求代理到本地后端的 `8001` 端口。
 - 只提交 `.env.example`，不要提交真实 `.env`。
 - 不要提交 `.venv`、`node_modules`、`frontend/dist` 或缓存目录。
 - 发布为公开仓库前，请确认图片与第三方服务的使用条款。
+
+## 前端界面展示：
+- <img width="967" height="632" alt="a95a512fb55ccf1eb42b2cab296ffa0b" src="https://github.com/user-attachments/assets/4d8a1483-9918-4b42-9532-71a96aeba292" />
+
