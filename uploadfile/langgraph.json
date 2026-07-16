@@ -1,0 +1,11 @@
+{
+  "$schema": "https://langgra.ph/schema.json",
+  "dependencies": ["."],
+  "graphs": {
+    "chief_agent": "./app/agent_demo/personal_chief.py:chief_agent"
+  },
+  "env": ".env",
+  "checkpointer": {
+    "path": "./app/agent_demo/personal_chief.py:mysql_checkpointer"
+  }
+}
